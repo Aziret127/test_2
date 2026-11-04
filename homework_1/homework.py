@@ -51,7 +51,7 @@
     
 #     print("Такого дня не существует")
 
-"""цикл while"""
+# """цикл while"""
 
 # counter = 0 
 # while counter < 100:
@@ -63,7 +63,7 @@
 #         continue
 #     print(counter)
 
-n = 5
+# n = 5
 
 # while n > 0:
 #      print(n)
@@ -72,18 +72,46 @@ n = 5
 # print("Выход из цикла")
 
 
-age_counter = 0
-student_counter = 0
 
-while True:
-    age = input("Введите возраст студента: ")
-    if age.isnumeric():
-        age_counter += int(age)
-        student_counter += 1
-    else:
-        print("вы ввели не число")
-        break
-    # print(student_counter)
-print(f"Средний возраст студентов:"
-      f" {round(age_counter / student_counter, 2)}"
-)
+
+
+
+# age_counter = 0
+# student_counter = 0
+
+
+# dskflksdjfkldsjfkl
+
+# while True:
+#     age = input("Введите возраст студента: ")
+#     if age.isnumeric():
+#         age_counter += int(age)
+#         student_counter += 1
+#     else:
+#         print("оставлено пустое поле или введено не число")
+#         break
+#     # print(student_counter)
+# print(f"Средний возраст студентов:"
+#       f" {round(age_counter / student_counter, 2)}"
+# )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
