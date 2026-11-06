@@ -80,6 +80,11 @@
 # student_counter = 0
 
 
+
+
+
+
+
 # dskflksdjfkldsjfkl
 
 # while True:
@@ -96,12 +101,14 @@
 # )
 
 
+# d = dict.fromkeys(["a", "b"], [])
 
 
+# d["a"].append(10)
 
-
-
-
+# print(d["a"])
+# print(d["b"])
+# print(d["a"] is d["b"])
 
 
 
